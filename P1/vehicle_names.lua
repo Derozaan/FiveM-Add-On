@@ -1,0 +1,13 @@
+Citizen.CreateThread(function()
+	--   McLaren P1
+	AddTextEntry('0xF4B56714', 'McLaren P1')
+	AddTextEntry('0x0B1612EB', 'P1 Dif 1')
+        AddTextEntry('0x10CE5FE1', 'P1 Split 1')
+        AddTextEntry('0x61DA081A', 'P1 Exh 3')
+        AddTextEntry('0x88B27D88', 'P1 Exh 2')
+        AddTextEntry('0x7112A39A', 'P1 Skirt)
+        AddTextEntry('0xD818DD1B', 'P1 Roof)
+        AddTextEntry('0xEB2D0989', 'P1 Exh 1')
+        AddTextEntry('0xEF666E93', 'P1 Split 2')
+        AddTextEntry('0xFF60C8FB', 'P1 Dif 2')
+  end)
