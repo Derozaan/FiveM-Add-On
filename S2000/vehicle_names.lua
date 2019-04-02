@@ -1,0 +1,12 @@
+Citizen.CreateThread(function()
+	--   Honda S2000
+	AddTextEntry('0x7836BC41', 'S2000 AP2')
+        AddTextEntry('0x631F22C7', 'Honda')
+        AddTextEntry('0x93064CB7', '5Zigen ProRacer ZZ')
+        AddTextEntry('0x228CBB32', 'OEM Front Lip')
+        AddTextEntry('0x44DEC9D6', 'Mugen HardTop')
+        AddTextEntry('0x3D8AA74E', 'Carbon Kit')
+        AddTextEntry('0x2B4D442F', '5Zigen ProRacer ZZ Cat-Back')
+        AddTextEntry('0x0BD2FF7D', 'HKS Super Power Flow Air Filter')
+        AddTextEntry('0x08DF0D9C', 'No HardTop')
+end)
