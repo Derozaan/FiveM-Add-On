@@ -1,0 +1,35 @@
+﻿Version 2 30
+{
+	0x004D4C50 = Nissan
+	0x076B1C2F = Pontiac
+	0x0A117B46 = Lamborghini
+	0x0C6B317F = Marussia
+	0x0DA57748 = Rolls-Royce
+	0x1C71E76F = Ferrari
+	0x1F739AA7 = Lexus
+	0x4F5A2108 = Peugeot
+	0x5A81C550 = Mazda
+	0x6AA59EE0 = Bentley
+	0x6D0B15CA = McLaren
+	0x9D82D700 = Renault
+	0x39CF1938 = Subaru
+	0x48D4723A = JEEP
+	0x268D09BB = Pagani
+	0x406DC176 = Audi
+	0x422F6B6F = Mercedes-Benz
+	0x631F22C7 = Honda
+	0x684B478A = VolksWagen
+	0x4949A7F8 = BMW
+	0x7979D34C = Ford
+	0x941298E3 = Toyota
+	0xA9ED9703 = Bugatti
+	0xAC6B8829 = Lamborghini
+	0xB47EA21B = Aston Martin
+	0xB539E7B3 = Impreza 22B-STI 1998 Series I
+	0xB586A50B = Koenigsegg
+	0xBF49FF01 = Porsche
+	0xC1B66A10 = Plymouth
+	0xD3C4AEE7 = Chevrolet
+	0xEBE64CD5 = Land Rover
+	0xFC3882B4 = Dodge
+}
